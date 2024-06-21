@@ -31,9 +31,9 @@ I need to provide __the marketing team with an actionable description__ of my se
    
 1. I will create a segmentation notebook:
 
-   -The proposed segmentation must be actionable and easy to use by the Marketing team.
-   -It must, at a minimum, differentiate between good and less good customers in terms of orders and satisfaction.
-   -The segmentation must cover all customers.
+   - The proposed segmentation must be actionable and easy to use by the Marketing team.
+   - It must, at a minimum, differentiate between good and less good customers in terms of orders and satisfaction.
+   - The segmentation must cover all customers.
    
 1. Subsequently, once the segmentation model is chosen, Olist would like me to recommend the frequency at which the segmentation should be updated to remain relevant, in order to draft a maintenance contract.
    

@@ -1,18 +1,10 @@
 # P5_e-commerce_customers_clustering
-<br>
-<p align="center"> 
-    <img src="pictures/logo_openclassrooms.png" width="200" alt="data scientist logo"  />
-    <br>
-    <img src="pictures/logo_data_scientist.png" width="200" alt="data scientist logo"  />
-    <br>
-    <strong> Data Scientist </strong>
-</p>
-<br>
 
 
-# <a name="C1">Présentation</a>
 
-Je suis consultant pour Olist, une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
+# <a name="C1">Presentation</a>
+
+I am a consultant for Olist, a Brazilian company that offers a solution for selling on online marketplaces.
 ***
 
 <center>
@@ -21,26 +13,28 @@ Je suis consultant pour Olist, une entreprise brésilienne qui propose une solut
 </center>
 
 ***
-### Le besoin de olist
+### The Need for Olist
 
-Olist souhaite que je fournisse à ses équipes d'e-commerce __une segmentation des clients__ qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
+Olist wants me to provide its e-commerce teams with __customer segmentation__ that they can use daily for their communication campaigns.
 
-mon objectif est de __comprendre les différents types d’utilisateurs__ grâce à leur comportement et à leurs données personnelles.
+My objective is to __understand the different types of users__ through their behavior and personal data.
 
-Je devrai __fournir à l’équipe marketing une description actionable__ de ma segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une __proposition de contrat de maintenance__ basée sur une analyse de la stabilité des segments au cours du temps.
+I need to provide __the marketing team with an actionable description__ of my segmentation and its underlying logic for optimal use, as well as __a maintenance contract proposal__ based on an analysis of the stability of the segments over time.
 
-### Ma mission
 
-> ma mission est d’aider les équipes d’Olist à comprendre les différents types d'utilisateurs. Je utiliserai donc des __méthodes non supervisées pour regrouper des clients de profils similaires__. Ces catégories pourront être utilisées par l’équipe Marketing pour mieux communiquer.
+### My mission
 
-1. Je crée un notebook d’analyse exploratoire.
+> My mission is to help Olist's teams understand the different types of users. Therefore, I will use __unsupervised methods to group customers with similar profiles__. These categories can be used by the Marketing team for better communication.
+
+
+1. I will create an exploratory analysis notebook.
    
-1. Je crée un notebook de segmentation :
+1. I will create a segmentation notebook:
 
-   - La segmentation proposée doit être exploitable et facile d’utilisation par l'équipe Marketing.
-   - Elle doit au minimum pouvoir différencier les bons et moins bons clients en termes de commandes et de satisfaction. 
-   - La segmentation doit être sur l’ensemble des clients.
+   -The proposed segmentation must be actionable and easy to use by the Marketing team.
+   -It must, at a minimum, differentiate between good and less good customers in terms of orders and satisfaction.
+   -The segmentation must cover all customers.
    
-1. Dans un deuxième temps, une fois le modèle de segmentation choisi, olis souhaiteraient que je les fasse une recommandation de fréquence à laquelle la segmentation doit être mise à jour pour rester pertinente, afin de pouvoir effectuer un devis de contrat de maintenance.
-
-1. Pour information, le code fourni doit respecter la convention __PEP8__, pour être utilisable par Olist.
+1. Subsequently, once the segmentation model is chosen, Olist would like me to recommend the frequency at which the segmentation should be updated to remain relevant, in order to draft a maintenance contract.
+   
+1. For your information, the provided code must comply with the __PEP8__ convention to be usable by Olist.
